@@ -2,8 +2,8 @@
 >Une bonne propriété css pour habiller du texte ci-dessous:
 ```css
 article img {
-  width: 200px;
-  height: 200px;
+  width: 20rem;
+  height: 20rem;
   object-fit: cover;
   border-radius: 50%;
   float: left;
