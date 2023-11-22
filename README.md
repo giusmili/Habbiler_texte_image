@@ -12,6 +12,7 @@ article img {
 }
 
 ```
-[Voir la démo](https://giusmili.github.io/habiller_texte_image/)
+[Démo](https://giusmili.github.io/habiller_texte_image/)
+----
 [![forthebadge](https://forthebadge.com/images/badges/validated-html5.svg)](https://forthebadge.com)
 
